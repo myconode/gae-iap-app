@@ -1,0 +1,2 @@
+# Next.JS App hosted on App Engine with Identity-Aware Proxy(IAP)
+How-to for migrating a Next.js app to Google App Engine with Google Cloud's Identity-Aware Proxy(IAP). This enables you to easily enforce authentication requirements for your app.
